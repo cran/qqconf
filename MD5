@@ -1,4 +1,4 @@
-c5be101dc93c4a9c1f437835c7a680c4 *DESCRIPTION
+9cdf69f9719c18618553e3f133934579 *DESCRIPTION
 90bb262b6f1efcd16ac34192eef64470 *NAMESPACE
 719b27559d98444b14b5cd83549f5543 *R/one_sided.R
 421226c3eba2870c704aad134b20829e *R/ppplot.R
@@ -6,10 +6,10 @@ fb6c1178dc8a0288d388a9f71f990bc9 *R/qqconf-package.R
 899f9237b9a3020ae2cf6f6e93227092 *R/qqplot.R
 fba9db7cba1aca8ec69676bc5fd4ca92 *R/sysdata.rda
 792453ca358f456b769c123747c16add *R/two_sided.R
-f0c3853c22d1826f3c5b00c0bd71431c *build/vignette.rds
-83a1e8f12d70797ff5524d0e18056524 *inst/doc/qqconf_introduction.R
+bec6c0e239af49cd10b6d5fd05cbccd5 *build/vignette.rds
+d7ee26caa5db814363dfdbfe84405099 *inst/doc/qqconf_introduction.R
 2c8f90c1ca02bf63680aa4a7dd8370ae *inst/doc/qqconf_introduction.Rmd
-c8425b78fd30b153eba3e59c7dda1373 *inst/doc/qqconf_introduction.html
+67a60e636dd14d26e98b576eca11930e *inst/doc/qqconf_introduction.html
 1804b96df7bf28fd3b9354807e43d7d1 *man/check_bounds_one_sided.Rd
 305f7fd47c21d465886524f24e215800 *man/check_bounds_two_sided.Rd
 448f8dbf2622005684bcbabb7cf5dd47 *man/get_asymptotic_approx_corrected_alpha.Rd
