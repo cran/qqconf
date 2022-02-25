@@ -1,4 +1,4 @@
-cc6a78856e541240a730c13f5c1e21d5 *DESCRIPTION
+9e074ada4d89534ed943d4cfdab187f4 *DESCRIPTION
 a1da8e1f441b2d7cc2ab31261cfd11fc *NAMESPACE
 5114a8958f74b6a53bcbf4dae10b97b0 *R/RcppExports.R
 3d7fc58ab20c05a914f6451288e1bc75 *R/one_sided.R
@@ -13,7 +13,7 @@ bec6c0e239af49cd10b6d5fd05cbccd5 *build/vignette.rds
 def24f31086da00197d4071f2d5d6d22 *configure.ac
 d7ee26caa5db814363dfdbfe84405099 *inst/doc/qqconf_introduction.R
 2c8f90c1ca02bf63680aa4a7dd8370ae *inst/doc/qqconf_introduction.Rmd
-60ca74e66541f15e0c558d0547fc38c2 *inst/doc/qqconf_introduction.html
+930949707b0666ad124eb2416adc2eab *inst/doc/qqconf_introduction.html
 1804b96df7bf28fd3b9354807e43d7d1 *man/check_bounds_one_sided.Rd
 305f7fd47c21d465886524f24e215800 *man/check_bounds_two_sided.Rd
 448f8dbf2622005684bcbabb7cf5dd47 *man/get_asymptotic_approx_corrected_alpha.Rd
