@@ -1,4 +1,4 @@
-e47e9b72fccb9e304080b489a548cd3c *DESCRIPTION
+c256b9b58fee5fca9ff6b8b596ec147e *DESCRIPTION
 a1da8e1f441b2d7cc2ab31261cfd11fc *NAMESPACE
 5114a8958f74b6a53bcbf4dae10b97b0 *R/RcppExports.R
 17813bb492a70e823c2bf74918d25890 *R/one_sided.R
@@ -13,7 +13,7 @@ bec6c0e239af49cd10b6d5fd05cbccd5 *build/vignette.rds
 def24f31086da00197d4071f2d5d6d22 *configure.ac
 d7ee26caa5db814363dfdbfe84405099 *inst/doc/qqconf_introduction.R
 2c8f90c1ca02bf63680aa4a7dd8370ae *inst/doc/qqconf_introduction.Rmd
-0623f077ff0f99542c929d1b0b205815 *inst/doc/qqconf_introduction.html
+7e465af03e4ca73937f7bd7cfccaa8e9 *inst/doc/qqconf_introduction.html
 1804b96df7bf28fd3b9354807e43d7d1 *man/check_bounds_one_sided.Rd
 305f7fd47c21d465886524f24e215800 *man/check_bounds_two_sided.Rd
 448f8dbf2622005684bcbabb7cf5dd47 *man/get_asymptotic_approx_corrected_alpha.Rd
@@ -27,5 +27,5 @@ efbe84adf35eb95b588d4cb6ed1da0f4 *man/pp_conf_plot.Rd
 fddcac97c20ad4f8a5d394372488e106 *src/Makevars.in
 d27e1aad57007768487364be2f23ec36 *src/Makevars.win
 8cbc6fab08be597bdc330e5e9e57f74b *src/RcppExports.cpp
-c81f4dbca9abd842a070f7d283aeabc7 *src/jointlevel_fft_twosided.cpp
+680ccfaf19c6d6280ebddd1413f65188 *src/jointlevel_fft_twosided.cpp
 2c8f90c1ca02bf63680aa4a7dd8370ae *vignettes/qqconf_introduction.Rmd
