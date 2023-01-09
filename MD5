@@ -1,4 +1,4 @@
-203d049b97cefb614238c2a13eb4552c *DESCRIPTION
+81596a70dc2e42e0bd2f4bca50aab716 *DESCRIPTION
 fc3a2200ec72d3909277c0c73942faec *NAMESPACE
 5114a8958f74b6a53bcbf4dae10b97b0 *R/RcppExports.R
 17813bb492a70e823c2bf74918d25890 *R/one_sided.R
@@ -6,15 +6,15 @@ fc3a2200ec72d3909277c0c73942faec *NAMESPACE
 69c9ccd1521abf0be8fca5d8d49d7f1d *R/qqconf-package.R
 df4704f90daf64ecee15dcfa61cd57bd *R/qqplot.R
 9f42bb047439c35c3eddf74ba0b3d034 *R/sysdata.rda
-c4853a1e7e49af904fe77cc7ca589a51 *R/two_sided.R
+52246d425847c160acedf771e209db20 *R/two_sided.R
 23ebed9f2e90151ab7031fb12b92cfe6 *R/utils.R
-bec6c0e239af49cd10b6d5fd05cbccd5 *build/vignette.rds
+d8d976171685c7764d175d4a8fb6158b *build/vignette.rds
 6e19154c3565f0fcb6bff424ce27bcc4 *cleanup
 3d28827abf3132c57f3e92b740c58991 *configure
 def24f31086da00197d4071f2d5d6d22 *configure.ac
 d7ee26caa5db814363dfdbfe84405099 *inst/doc/qqconf_introduction.R
 2c8f90c1ca02bf63680aa4a7dd8370ae *inst/doc/qqconf_introduction.Rmd
-4ff7d73fb69f45d1f456e939d2070447 *inst/doc/qqconf_introduction.html
+d4ae840b2e7f4868f37b35022cf67709 *inst/doc/qqconf_introduction.html
 8c50bac37ae6e89bcb7b1cae4f2327da *man/between.Rd
 1804b96df7bf28fd3b9354807e43d7d1 *man/check_bounds_one_sided.Rd
 305f7fd47c21d465886524f24e215800 *man/check_bounds_two_sided.Rd

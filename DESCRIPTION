@@ -1,7 +1,7 @@
 Package: qqconf
 Type: Package
 Title: Creates Simultaneous Testing Bands for QQ-Plots
-Version: 1.3.0
+Version: 1.3.1
 Authors@R: c(
     person("Eric", "Weine", email = "ericweine15@gmail.com", role = c("aut", "cre")),
     person("Mary Sara", "McPeek", email = "mcpeek@uchicago.edu", role = "aut"),
@@ -22,10 +22,10 @@ LinkingTo: Rcpp
 URL: https://github.com/eweine/qqconf
 BugReports: https://github.com/eweine/qqconf/issues
 NeedsCompilation: yes
-Packaged: 2022-08-10 20:00:55 UTC; ericweine
+Packaged: 2023-01-09 02:00:44 UTC; ericweine
 Author: Eric Weine [aut, cre],
   Mary Sara McPeek [aut],
   Abney Mark [aut]
 Maintainer: Eric Weine <ericweine15@gmail.com>
 Repository: CRAN
-Date/Publication: 2022-08-10 20:50:02 UTC
+Date/Publication: 2023-01-09 09:20:08 UTC
